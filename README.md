@@ -1,6 +1,19 @@
 
 # Laravel API
 
+Установка
+```
+git clone https://github.com/ilya5445/laravel-api-order.git
+cd /laravel-api-order
+composer install
+```
+
+Запуск проекта
+
+```
+php artisan serve
+```
+
 ## Методы API
 
 - Получение списка заказов GET /api/orders/
